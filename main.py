@@ -28,5 +28,6 @@ def main():
     game = Game()
     game.run(bot)
 
+
 if __name__ == '__main__':
     main()
